@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+matplotlib
+requests
+boto3
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+langchain-core
+feedparser
+beautifulsoup4
